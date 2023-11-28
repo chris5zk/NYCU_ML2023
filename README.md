@@ -1,5 +1,16 @@
 # NYCU_ML2023
 
+**Instructors:**
+
+- Prof. Hung: focusing on mathematical background, equation derivation
+- Prof. Chiu: focusing on big picture, key ideas
+
+**Textbook:** Bishop: Pattern Recognition and Machine Learning
+
+**Homework:** 7 coding homework, once every other week
+
+> **Notice**: Don’t take this class if you know you won’t have enough time (8-16hrs) or > you won’t spend time on learning.
+
 ---
 
 ## HW1
@@ -77,3 +88,5 @@
 **Run:** `python ./HW4/EM_algorithm.py`
 
 **Notice:** Cluster mapping
+
+---
